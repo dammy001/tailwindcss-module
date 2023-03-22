@@ -38,7 +38,7 @@
     "postcss-nesting": "^10.1.10",
     "tailwind-config-viewer": "^1.7.1",
     "tailwindcss": "^3.1.6",
-    "ufo": "^0.8.5"
+    "ufo": "^1.1.1"
   },
   "devDependencies": {
     "@fontsource/inter": "^4.5.11",
